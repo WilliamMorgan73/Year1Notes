@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "5e827caf4ce40eef",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e2e68a8af178451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37978359b1912f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer systems/Lecture 7 - SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45fd0ddefe818f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7fe418a43cb4ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a45c3e84785dcc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "081c181f8b3ca349",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Database",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf18d068c35abeee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9cb7d96f23a09098",
+    "type": "split",
+    "children": [
+      {
+        "id": "b67c6676b0c5b8b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a82b8fba522198b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer systems/Lecture 7 - SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5aac9f52d852abc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer systems/Lecture 7 - SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f895030f6a74383",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a254e6f995927ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer systems/Lecture 7 - SQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "37978359b1912f1e",
+  "lastOpenFiles": [
+    "Computer systems/Lecture 7 - SQL.md",
+    "Images/Pasted image 20240130144439.png",
+    "Images/Pasted image 20240130142822.png",
+    "Images/Pasted image 20240130142749.png",
+    "Images/Pasted image 20240130141554.png",
+    "Images",
+    "New folder",
+    "Pasted image 20240130144439.png",
+    "Pasted image 20240130142822.png",
+    "Pasted image 20240130142749.png",
+    "Pasted image 20240130142704.png",
+    "Pasted image 20240130141554.png",
+    "Lecture 7 - SQL.md",
+    "Computer systems"
+  ]
+}
