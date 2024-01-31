@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e2e68a8af178451",
+        "id": "6fb16d4eecabc992",
         "type": "tabs",
         "children": [
           {
-            "id": "37978359b1912f1e",
+            "id": "171fbeb624f5f1c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer systems/Lecture 7 - SQL.md",
+                "file": "Computer systems/Database/Lecture 3 - Relational data model.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Database",
+                "query": "path:\"Computer systems\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer systems/Lecture 7 - SQL.md",
+                "file": "Computer systems/Database/Lecture 3 - Relational data model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer systems/Lecture 7 - SQL.md",
+                "file": "Computer systems/Database/Lecture 3 - Relational data model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer systems/Lecture 7 - SQL.md"
+                "file": "Computer systems/Database/Lecture 3 - Relational data model.md"
               }
             }
           }
@@ -147,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37978359b1912f1e",
+  "active": "171fbeb624f5f1c8",
   "lastOpenFiles": [
-    "Computer systems/Lecture 7 - SQL.md",
+    "Computer systems/Database/Lecture 1 & 2 - Database design.md",
+    "Computer systems/Database/Lecture 7 - SQL.md",
+    "Computer systems/Database/Lecture 3 - Relational data model.md",
+    "Computer systems/Database",
     "Images/Pasted image 20240130144439.png",
     "Images/Pasted image 20240130142822.png",
     "Images/Pasted image 20240130142749.png",
