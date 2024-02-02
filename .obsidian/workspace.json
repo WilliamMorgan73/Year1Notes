@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9cb7d96f23a09098",
@@ -161,9 +162,9 @@
   },
   "active": "3a45c3e84785dcc8",
   "lastOpenFiles": [
+    "Computer systems/Database/Lecture 3 - Relational data model.md",
     "Algorithms and Data Structures/Topic 1 - Introduction and Pseudocode.md",
     "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md",
-    "Computer systems/Database/Lecture 3 - Relational data model.md",
     "Algorithms and Data Structures",
     "Computer systems/Database/Lecture 1 & 2 - Database design.md",
     "Computer systems/Database/Lecture 7 - SQL.md",
