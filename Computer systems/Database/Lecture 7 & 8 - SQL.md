@@ -5,34 +5,36 @@ A good database language should allow users to:
 - Basic data management
 	- Insert, modify, delete data
 - Perform simple and complex queries
+
 And it should be simple and portable
 - Syntax/command structure easy to learn and use
 - Conform to a recognised standard
 - Same language can be used with many DBMS
 
-- **SQL (Structured Query Language)**
-	- Most common database language
-	- ISO/ANSI standard
-	- Simple syntax
-	- Two components DDL & DML
-- **Data definition language (DDL)**
-	- Define the **schema** for each relation (attributes)
-	- Define the **domain** of each attribute (types for attribute values)
-	- Specify **integrity constraints** (e.g. primary/foreign keys)
--   **Data Manipulation Language (DML)**
-	- **insert / update / delete / retrieve** data from the database
-	- **Query Language**: the part of the DML that involves retrieval
--   **Big picture**
-- two types of DB languages:
-		1. declarative
-		2. procedural
-	- SQL is declarative
-	- query is internally transformed to procedural form
-	- different possible transformations → used to optimise for performance
+**SQL (Structured Query Language)**
+- Most common database language
+- ISO/ANSI standard
+- Simple syntax
+- Two components DDL & DML
+
+**Data definition language (DDL)**
+- Define the **schema** for each relation (attributes)
+- Define the **domain** of each attribute (types for attribute values)
+- Specify **integrity constraints** (e.g. primary/foreign keys)
+
+**Data Manipulation Language (DML)**
+- **insert / update / delete / retrieve** data from the database
+- **Query Language**: the part of the DML that involves retrieval
+
+Two types of DB languages:
+	1. declarative
+	2. procedural
+
+SQL is declarative
+Query is internally transformed to procedural form
+Different possible transformations → used to optimise for performance
 
 ## SQL Statements
-
-  
 SQL statements consist of:
 - reserved words: a fixed part of SQL
 	- SELECT
