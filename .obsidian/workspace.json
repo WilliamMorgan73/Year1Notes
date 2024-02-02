@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer systems/Database/Lecture 3 - Relational data model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c665364e9c2695b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md",
+                "file": "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md",
+                "file": "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md",
+                "file": "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md"
+                "file": "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md"
               }
             }
           }
@@ -160,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a45c3e84785dcc8",
+  "active": "171fbeb624f5f1c8",
   "lastOpenFiles": [
     "Computer systems/Database/Lecture 3 - Relational data model.md",
-    "Algorithms and Data Structures/Topic 1 - Introduction and Pseudocode.md",
+    "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
     "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md",
+    "Algorithms and Data Structures/Topic 1 - Introduction and Pseudocode.md",
     "Algorithms and Data Structures",
     "Computer systems/Database/Lecture 1 & 2 - Database design.md",
     "Computer systems/Database/Lecture 7 - SQL.md",
