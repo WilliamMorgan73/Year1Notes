@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb16d4eecabc992",
+        "id": "f9b1d6781a75b119",
         "type": "tabs",
         "children": [
           {
-            "id": "171fbeb624f5f1c8",
+            "id": "f4401c169032ecbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
+                "file": "Computer systems/Database/Lecture 7 & 8 - SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9cb7d96f23a09098",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
+                "file": "Computer systems/Database/Lecture 7 & 8 - SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
+                "file": "Computer systems/Database/Lecture 7 & 8 - SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md"
+                "file": "Computer systems/Database/Lecture 7 & 8 - SQL.md"
               }
             }
           }
@@ -147,15 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "171fbeb624f5f1c8",
+  "active": "f4401c169032ecbb",
   "lastOpenFiles": [
-    "Computer systems/Database/Lecture 3 - Relational data model.md",
+    "Pasted image 20240202160919.png",
+    "Algorithms and Data Structures/Topic 4 - Hash Tables.md",
     "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
+    "Computer systems/Database/Lecture 3 - Relational data model.md",
     "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md",
     "Algorithms and Data Structures/Topic 1 - Introduction and Pseudocode.md",
     "Algorithms and Data Structures",
     "Computer systems/Database/Lecture 1 & 2 - Database design.md",
-    "Computer systems/Database/Lecture 7 - SQL.md",
+    "Computer systems/Database/Lecture 7 & 8 - SQL.md",
     "Computer systems/Database",
     "Images/Pasted image 20240130144439.png",
     "Images/Pasted image 20240130142822.png",
