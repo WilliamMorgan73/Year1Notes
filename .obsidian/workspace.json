@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
+                "file": "Algorithms and Data Structures/Topic 6 - Asymptotic notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9cb7d96f23a09098",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
+                "file": "Algorithms and Data Structures/Topic 6 - Asymptotic notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
+                "file": "Algorithms and Data Structures/Topic 6 - Asymptotic notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md"
+                "file": "Algorithms and Data Structures/Topic 6 - Asymptotic notation.md"
               }
             }
           }
@@ -148,8 +149,9 @@
   },
   "active": "f4401c169032ecbb",
   "lastOpenFiles": [
-    "Algorithms and Data Structures/Topic 4 - Hash Tables.md",
     "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
+    "Algorithms and Data Structures/Topic 6 - Asymptotic notation.md",
+    "Algorithms and Data Structures/Topic 4 - Hash Tables.md",
     "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
     "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md",
     "Computer systems/Database/Lecture 7 & 8 - SQL.md",
