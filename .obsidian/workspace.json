@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer systems/Database/Lecture 7 & 8 - SQL.md",
+                "file": "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer systems/Database/Lecture 7 & 8 - SQL.md",
+                "file": "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer systems/Database/Lecture 7 & 8 - SQL.md",
+                "file": "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer systems/Database/Lecture 7 & 8 - SQL.md"
+                "file": "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "f4401c169032ecbb",
   "lastOpenFiles": [
-    "Pasted image 20240202160919.png",
     "Algorithms and Data Structures/Topic 4 - Hash Tables.md",
+    "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
     "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
-    "Computer systems/Database/Lecture 3 - Relational data model.md",
     "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md",
+    "Computer systems/Database/Lecture 7 & 8 - SQL.md",
+    "Pasted image 20240202160919.png",
+    "Computer systems/Database/Lecture 3 - Relational data model.md",
     "Algorithms and Data Structures/Topic 1 - Introduction and Pseudocode.md",
     "Algorithms and Data Structures",
     "Computer systems/Database/Lecture 1 & 2 - Database design.md",
-    "Computer systems/Database/Lecture 7 & 8 - SQL.md",
     "Computer systems/Database",
     "Images/Pasted image 20240130144439.png",
     "Images/Pasted image 20240130142822.png",
