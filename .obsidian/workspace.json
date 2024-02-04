@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9b1d6781a75b119",
+        "id": "d8ca9fb9c3dd4783",
         "type": "tabs",
         "children": [
           {
-            "id": "f4401c169032ecbb",
+            "id": "a15c90451420ff41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 8 - Recursive Algorithm Analysis.md",
+                "file": "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 8 - Recursive Algorithm Analysis.md",
+                "file": "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 8 - Recursive Algorithm Analysis.md",
+                "file": "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 8 - Recursive Algorithm Analysis.md"
+                "file": "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4401c169032ecbb",
+  "active": "a15c90451420ff41",
   "lastOpenFiles": [
-    "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
     "Algorithms and Data Structures/Topic 8 - Recursive Algorithm Analysis.md",
+    "Images/Big O graph.png",
+    "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
     "Algorithms and Data Structures/Topic 6 - Asymptotic notation.md",
     "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
     "Algorithms and Data Structures/Topic 4 - Hash Tables.md",
@@ -172,7 +173,6 @@
     "Pasted image 20240130142822.png",
     "Pasted image 20240130142749.png",
     "Pasted image 20240130142704.png",
-    "Pasted image 20240130141554.png",
     "Lecture 7 - SQL.md",
     "Computer systems"
   ]
