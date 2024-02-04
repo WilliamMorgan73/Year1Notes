@@ -199,3 +199,19 @@ T(n) = 2T\left(\frac{n}{2}\right) + O(n).
 $$
 
 By the Master Theorem, this recurrence relation has a solution of O($n \log n$), proving the average-case time complexity of Quick Sort.
+
+## Randomised quick sort
+If we chose a pivot that isn't in the centre, how do we analyse that
+There would be a short branch and a long branch
+How do we analyse this?
+
+If X is a random variable that denotes the number of comparisons during a run of randomised quick sort then:
+$$E[X] = O(n \log n)$$
+**Proof
+
+$$T(n) = (n - 1) + \frac{1}{n} \underset{\text{average over split}}{\sum_{i=0}^{n} (T(i) + T(n - i - 1))}$$
+This expression can be further simplified:
+$$= (n - 1) + \frac{1}{n} \left[ \sum_{i=0}^{n-1} T(i) + \sum_{i=0}^{n-1} T(n - i - 1) \right]$$
+$$= (n - 1) + \frac{1}{n} \left[ \sum_{i=0}^{n-1} T(i) + \sum_{i=0}^{n-1} T(i) \right]$$
+$$= (n - 1) + \frac{2}{n} \sum_{i=0}^{n-1} T(i)$$
+
