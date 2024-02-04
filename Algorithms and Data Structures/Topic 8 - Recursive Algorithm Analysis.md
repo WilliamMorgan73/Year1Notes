@@ -26,7 +26,7 @@ If not:
 
 Use this graph as reference
 
-![[Big O graph.png]]
+![Comparison of Big O computations](https://upload.wikimedia.org/wikipedia/commons/7/7e/Comparison_computational_complexity.svg)
 
 Now we have a guess, we need to check if it is correct
 
