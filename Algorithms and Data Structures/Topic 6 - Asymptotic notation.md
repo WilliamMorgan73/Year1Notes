@@ -9,7 +9,7 @@ $log_a(b / c) = log_a(b) - log_a(c)$
 
 $log_a(b^c) = c \times log_a(b)$
 
-$log_a(b) = log_c(b) / log_c(a)$
+$log_a(b) = \frac{log_c(b)}{log_c(a)}$
 
 $log_b(b^x) = x$
 
