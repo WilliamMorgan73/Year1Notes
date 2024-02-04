@@ -6,16 +6,12 @@ Only need to:
 **Example**
 Consider the recurrence for Merge Sort:
 
-$$
-T(n) \leq \begin{cases} 
+$$T(n) \leq \begin{cases} 
       d & \text{if } n \leq c, \text{ for constants } c, d > 0 \\
       2 \cdot T\left(\frac{n}{2}\right) + a \cdot n & \text{otherwise}
-   \end{cases}$
-$$
+   \end{cases}$$
 Experience/Intuition tells me that this should be:
-$$
-T(n) = O(n \log_2 n)
-$$
+$$T(n) = O(n \log_2 n)$$
 If not:
 	Start big, and consecutively reduce upper bound
 
@@ -33,9 +29,7 @@ Now we have a guess, we need to check if it is correct
 Ignore $n=1$ and consider only $n  \geq 2$
 
 Recurrence said:
-$$
-T(n) \leq d \; if \; n \leq c \; for \; constatns \; c \; and \; d. \; Make \; \alpha \; big \; enough
-$$
+$$T(n) \leq d \; if \; n \leq c \; for \; constatns \; c \; and \; d. \; Make \; \alpha \; big \; enough$$
 $$d \leq \alpha n \log_2 n \; for \; 2 \leq n \leq c \Leftrightarrow \alpha \geq \frac{d}{2 \log_2 2} = \frac{d}{2}$$
 Then for all $2 \leq n \leq c$, we have $T(n) \leq d \leq \alpha n \log_2 n$
 
@@ -85,22 +79,18 @@ $$\leq 16\left(2T\left(\frac{n}{32}\right) + \frac{an}{16}\right) + 4an = 32T\le
 Looks a lot like we can do this $log_2 n$ many times, and we'll find that after $i$ many times:
 
 **First term:**
-$$
-2^i T\left(\frac{n}{2^i}\right)
-$$
-Second term:
-$$
-i an
-$$
+
+$$2^i T\left(\frac{n}{2^i}\right)$$
+**Second term:**
+$$i an$$
 Therefore, after $log_2 n$ many times:
-$$
-2^{log_2 n} \times base \; case \; value + \log_2 (n) an = O(n \log n)
-$$
+
+$$2^{log_2 n} \times base \; case \; value + \log_2 (n) an = O(n \log n)$$
 
 ## Solving recurrences using the Master Theorem
 Can use if recurrence is of form 
 $$T(n) = aT\left(\frac{n}{b}\right) + f(n)$$
-for constants $a \geq 1$ and $b > 1$. E.g., MergeSort: $a = 2$, $b = 2$, $f(n) = a'n$.
+for constants $a \geq 1$ and $b > 1$. E.g., Merge Sort: $a = 2$, $b = 2$, $f(n) = a'n$.
 
 Three cases:
 
