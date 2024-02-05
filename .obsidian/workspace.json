@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
+                "file": "Algorithms and Data Structures/Topic 9 - Search and selecting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
+                "file": "Algorithms and Data Structures/Topic 9 - Search and selecting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
+                "file": "Algorithms and Data Structures/Topic 9 - Search and selecting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md"
+                "file": "Algorithms and Data Structures/Topic 9 - Search and selecting.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "a15c90451420ff41",
   "lastOpenFiles": [
+    "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
+    "Algorithms and Data Structures/Topic 9 - Search and selecting.md",
+    "Algorithms and Data Structures/Topic 6 - Asymptotic notation.md",
+    "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
     "Algorithms and Data Structures/Topic 8 - Recursive Algorithm Analysis.md",
     "Images/Big O graph.png",
-    "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
-    "Algorithms and Data Structures/Topic 6 - Asymptotic notation.md",
-    "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
     "Algorithms and Data Structures/Topic 4 - Hash Tables.md",
     "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
     "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md",
