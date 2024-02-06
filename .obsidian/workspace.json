@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 9 - Search and selecting.md",
+                "file": "Computer systems/Database/Topic x - Relational Calculus and Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 9 - Search and selecting.md",
+                "file": "Computer systems/Database/Topic x - Relational Calculus and Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 9 - Search and selecting.md",
+                "file": "Computer systems/Database/Topic x - Relational Calculus and Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/Topic 9 - Search and selecting.md"
+                "file": "Computer systems/Database/Topic x - Relational Calculus and Algebra.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a15c90451420ff41",
   "lastOpenFiles": [
-    "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
     "Algorithms and Data Structures/Topic 9 - Search and selecting.md",
+    "Computer systems/Database/Topic x - Relational Calculus and Algebra.md",
+    "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
     "Algorithms and Data Structures/Topic 6 - Asymptotic notation.md",
     "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
     "Algorithms and Data Structures/Topic 8 - Recursive Algorithm Analysis.md",
