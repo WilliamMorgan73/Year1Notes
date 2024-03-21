@@ -1,0 +1,1 @@
+Done on Samsung notes due to diagrams (Rotations)

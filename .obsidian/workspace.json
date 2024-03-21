@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8ca9fb9c3dd4783",
+        "id": "996ef8140e5ecf6a",
         "type": "tabs",
         "children": [
           {
-            "id": "a15c90451420ff41",
+            "id": "94b72b942a5b7da6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer systems/Database/Topic y - Multi-User and Distributed Architecture.md",
+                "file": "Computer systems/Digital Electronics/Topic 4 - Boolean Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9cb7d96f23a09098",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer systems/Database/Topic y - Multi-User and Distributed Architecture.md",
+                "file": "Computer systems/Digital Electronics/Topic 4 - Boolean Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer systems/Database/Topic y - Multi-User and Distributed Architecture.md",
+                "file": "Computer systems/Digital Electronics/Topic 4 - Boolean Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer systems/Database/Topic y - Multi-User and Distributed Architecture.md"
+                "file": "Computer systems/Digital Electronics/Topic 4 - Boolean Algebra.md"
               }
             }
           }
@@ -146,42 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a15c90451420ff41",
+  "active": "94b72b942a5b7da6",
   "lastOpenFiles": [
-    "Computer systems/Database/Topic x - Relational Calculus and Algebra.md",
-    "Computer systems/Database/Topic y - Multi-User and Distributed Architecture.md",
-    "Computational thinking/Practicals/Week 15 - Natural deduction.md",
+    "Computer systems/Digital Electronics/Topic 3 - Transistors and Logic Gates.md",
+    "Computer systems/Digital Electronics/Topic 2 - Binary Arithmetic and Floating Point.md",
+    "Computer systems/Operating System/Topic 7 - Deadlock.md",
+    "Computer systems/Digital Electronics/Topic 1- Number Systems.md",
+    "Images/Pasted image 20240313162315.png",
+    "Images/6VerticiesTrees.png",
+    "Algorithms and Data Structures/Part 3/Topic 11 - AVL Trees.md",
+    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 14 - Basics of Graph Theory.md",
+    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 15 - Paths, Cycles, and Trees.md",
+    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 16 - Trees.md",
+    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 19 - Minimum Spanning Trees.md",
+    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 18 - Breadth-First Search.md",
+    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 17 - Rooted trees, Graph isomorphism.md",
+    "Algorithms and Data Structures/Part 3/Topic 13 - Lower bounds.md",
+    "Algorithms and Data Structures/Part 3/Topic 12 - Heaps.md",
+    "Algorithms and Data Structures/Part 3/Topic 10 - Binary Trees and Binary Search Trees (BST).md",
+    "Images/Pre order traversal.png",
+    "Algorithms and Data Structures/Part 2/Topic 9 - Search and Selecting.md",
+    "Algorithms and Data Structures/Part 2/Topic 8 - Recursive Algorithm Analysis.md",
+    "Computer systems/Operating System/Topic 6 - Storage management.md",
+    "Algorithms and Data Structures/Part 2/Topic 7 - Sorting algorithms.md",
+    "Images/Pasted image 20240312131854.png",
+    "Images/Pasted image 20240312132451.png",
+    "Images/Pasted image 20240312131920.png",
+    "Algorithms and Data Structures/Part 2/Topic 6 - Asymptotic notation.md",
+    "cu.md",
+    "Pasted image 20240311172615.png",
+    "Images/Pasted image 20240311171207.png",
+    "Algorithms and Data Structures/Part 1/Topic 5 - Recursion and Backtracking.md",
+    "Algorithms and Data Structures/Part 1/Topic 4 - Hash Tables.md",
+    "Algorithms and Data Structures/Part 1/Topic 3 - Stacks and Queues.md",
+    "Algorithms and Data Structures/Part 1/Topic 2 - Arrays and Lists.md",
+    "Algorithms and Data Structures/Part 1/Topic 1 - Introduction and Pseudocode.md",
     "Computer systems/Practicals/Week 15 - SQL.md",
-    "Computational thinking/Practicals",
-    "Computational thinking",
-    "Computer systems/Practicals",
-    "Algorithms and Data Structures/Topic 9 - Search and selecting.md",
-    "Algorithms and Data Structures/Topic 5 - Recursion and Backtracking.md",
-    "Algorithms and Data Structures/Topic 6 - Asymptotic notation.md",
-    "Algorithms and Data Structures/Topic 7 - Sorting algorithms.md",
-    "Algorithms and Data Structures/Topic 8 - Recursive Algorithm Analysis.md",
-    "Images/Big O graph.png",
-    "Algorithms and Data Structures/Topic 4 - Hash Tables.md",
-    "Algorithms and Data Structures/Topic 3 - Stacks and Queues.md",
-    "Algorithms and Data Structures/Topic 2 - Arrays and Lists.md",
-    "Computer systems/Database/Lecture 7 & 8 - SQL.md",
-    "Pasted image 20240202160919.png",
-    "Computer systems/Database/Lecture 3 - Relational data model.md",
-    "Algorithms and Data Structures/Topic 1 - Introduction and Pseudocode.md",
-    "Algorithms and Data Structures",
-    "Computer systems/Database/Lecture 1 & 2 - Database design.md",
-    "Computer systems/Database",
-    "Images/Pasted image 20240130144439.png",
-    "Images/Pasted image 20240130142822.png",
-    "Images/Pasted image 20240130142749.png",
-    "Images/Pasted image 20240130141554.png",
+    "Images/Decision tree selection sort 2.png",
+    "Images/Pasted image 20240310101249.png",
+    "Algorithms and Data Structures/desktop.ini",
+    "Images/desktop.ini",
+    "Computer systems/Digital Electronics",
+    "Algorithms and Data Structures/Part 3",
+    "Algorithms and Data Structures/Part 1",
     "Images",
-    "New folder",
-    "Pasted image 20240130144439.png",
-    "Pasted image 20240130142822.png",
-    "Pasted image 20240130142749.png",
-    "Pasted image 20240130142704.png",
-    "Lecture 7 - SQL.md",
-    "Computer systems"
+    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms",
+    "Algorithms and Data Structures/Part 2",
+    "Computer systems/Operating System",
+    "Computational thinking/Practicals"
   ]
 }
