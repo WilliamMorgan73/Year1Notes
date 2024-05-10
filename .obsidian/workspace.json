@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer systems/Digital Electronics/Topic 4 - Boolean Algebra.md",
+                "file": "Computer systems/Operating System/Topic 2 - CPU Scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9cb7d96f23a09098",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer systems/Digital Electronics/Topic 4 - Boolean Algebra.md",
+                "file": "Computer systems/Operating System/Topic 2 - CPU Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer systems/Digital Electronics/Topic 4 - Boolean Algebra.md",
+                "file": "Computer systems/Operating System/Topic 2 - CPU Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer systems/Digital Electronics/Topic 4 - Boolean Algebra.md"
+                "file": "Computer systems/Operating System/Topic 2 - CPU Scheduling.md"
               }
             }
           }
@@ -149,42 +148,43 @@
   },
   "active": "94b72b942a5b7da6",
   "lastOpenFiles": [
-    "Computer systems/Digital Electronics/Topic 3 - Transistors and Logic Gates.md",
-    "Computer systems/Digital Electronics/Topic 2 - Binary Arithmetic and Floating Point.md",
-    "Computer systems/Operating System/Topic 7 - Deadlock.md",
+    "Computer systems/Operating System/Topic 1 - Introduction to OS.md",
+    "Computer systems/Operating System/Topic 2 - CPU Scheduling.md",
+    "Computer systems/Database/Topic 4 - Relational Calculus and Algebra.md",
+    "Computer systems/Database/Topic 2 - Relational data model.md",
+    "Computer systems/Database/Topic 1 - Database design.md",
+    "Computer systems/Database/Practicals/Week 15 - SQL.md",
+    "Computer systems/Database/Topic 3 - SQL.md",
+    "Computer systems/Database/Topic 5 - Multi-User and Distributed Architecture.md",
     "Computer systems/Digital Electronics/Topic 1- Number Systems.md",
-    "Images/Pasted image 20240313162315.png",
-    "Images/6VerticiesTrees.png",
-    "Algorithms and Data Structures/Part 3/Topic 11 - AVL Trees.md",
-    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 14 - Basics of Graph Theory.md",
+    "Computer systems/Operating System/Topic 3 - Multiqueues.md",
+    "Computer systems/Operating System/Topic 5 - Storage management.md",
+    "Computer systems/Operating System/Topic 4 - Memory management.md",
+    "Computer systems/Operating System/Topic 6 - Deadlock.md",
     "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 15 - Paths, Cycles, and Trees.md",
-    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 16 - Trees.md",
-    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 19 - Minimum Spanning Trees.md",
-    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 18 - Breadth-First Search.md",
+    "Images/Pasted image 20240402101815.png",
     "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 17 - Rooted trees, Graph isomorphism.md",
-    "Algorithms and Data Structures/Part 3/Topic 13 - Lower bounds.md",
-    "Algorithms and Data Structures/Part 3/Topic 12 - Heaps.md",
-    "Algorithms and Data Structures/Part 3/Topic 10 - Binary Trees and Binary Search Trees (BST).md",
-    "Images/Pre order traversal.png",
-    "Algorithms and Data Structures/Part 2/Topic 9 - Search and Selecting.md",
-    "Algorithms and Data Structures/Part 2/Topic 8 - Recursive Algorithm Analysis.md",
-    "Computer systems/Operating System/Topic 6 - Storage management.md",
-    "Algorithms and Data Structures/Part 2/Topic 7 - Sorting algorithms.md",
-    "Images/Pasted image 20240312131854.png",
-    "Images/Pasted image 20240312132451.png",
-    "Images/Pasted image 20240312131920.png",
-    "Algorithms and Data Structures/Part 2/Topic 6 - Asymptotic notation.md",
-    "cu.md",
-    "Pasted image 20240311172615.png",
-    "Images/Pasted image 20240311171207.png",
-    "Algorithms and Data Structures/Part 1/Topic 5 - Recursion and Backtracking.md",
-    "Algorithms and Data Structures/Part 1/Topic 4 - Hash Tables.md",
-    "Algorithms and Data Structures/Part 1/Topic 3 - Stacks and Queues.md",
-    "Algorithms and Data Structures/Part 1/Topic 2 - Arrays and Lists.md",
-    "Algorithms and Data Structures/Part 1/Topic 1 - Introduction and Pseudocode.md",
-    "Computer systems/Practicals/Week 15 - SQL.md",
-    "Images/Decision tree selection sort 2.png",
-    "Images/Pasted image 20240310101249.png",
+    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 14 - Basics of Graph Theory.md",
+    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 16 - Trees.md",
+    "Images/Pasted image 20240326140850.png",
+    "Images/Pasted image 20240326140745.png",
+    "Images/Pasted image 20240326140655.png",
+    "Images/Pasted image 20240326140637.png",
+    "Images/Pasted image 20240326140017.png",
+    "Images/Pasted image 20240326140551.png",
+    "Images/Pasted image 20240326140536.png",
+    "Images/Pasted image 20240326140308.png",
+    "Images/Pasted image 20240326140254.png",
+    "Computer systems/Machine Architecture/Topic 4 - CISC, RISC, and pipelining.md",
+    "Computer systems/Machine Architecture/Topic 3 - AVR addressing modes and instruction set.md",
+    "Computer systems/Machine Architecture/Topic 2 - MIPS.md",
+    "Computer systems/Digital Electronics/Topic 3 - Transistors and Logic Gates.md",
+    "Computer systems/Machine Architecture/Topic 1 - Von Neumann architecture.md",
+    "Computer systems/Digital Electronics/Topic 8 - Sequential circuits.md",
+    "Computer systems/Digital Electronics/Topic 7 - Timing and Advanced Adders.md",
+    "Computer systems/Digital Electronics/Topic 6 - Circuits.md",
+    "Computer systems/Digital Electronics/Topic 5 - Karnaugh Maps.md",
+    "Computer systems/Machine Architecture",
     "Algorithms and Data Structures/desktop.ini",
     "Images/desktop.ini",
     "Computer systems/Digital Electronics",
@@ -193,7 +193,6 @@
     "Images",
     "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms",
     "Algorithms and Data Structures/Part 2",
-    "Computer systems/Operating System",
-    "Computational thinking/Practicals"
+    "Computer systems/Operating System"
   ]
 }

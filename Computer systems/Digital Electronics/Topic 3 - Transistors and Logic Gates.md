@@ -52,7 +52,7 @@ The mapping of continuous voltage measured at any point in the circuit to discre
 ![[Pasted image 20240308135551.png]]
 
 Permitted range for high output: $V_{OH}$ to $V_{DD}$
-Permitted range for low output: $GND$ to $V_{DL}$
+Permitted range for low output: $GND$ to $V_{OL}$
 Acceptable range for high input: $V_{IH}$ to $V_{DD}$
 Acceptable range for low input: $GND$ to $V_{IL}$
 

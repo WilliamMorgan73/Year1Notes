@@ -121,7 +121,7 @@ $$(B \vee C) \wedge (B \vee \overline{C})=B$$
 ## Consensus
 
 $$(B \wedge C) \vee (\overline{B}\wedge D) \vee (C \wedge D)= (B \wedge C)\vee (\overline{B}\wedge D)$$
-$$(B \vee C) \wedge (\overline{B}\vee D) \wedge (C \vee D)= (B \vee C)\\wedge (\overline{B}\vee D)$$
+$$(B \vee C) \wedge (\overline{B}\vee D) \wedge (C \vee D)= (B \vee C)\wedge (\overline{B}\vee D)$$
 
 ## De Morgan's
 

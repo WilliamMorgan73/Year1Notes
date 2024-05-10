@@ -300,15 +300,7 @@ UNIX examples
 - exec()
 	- System call used after a fork() to replace the process' memory space with a new program
 
-```mermaid.js
-graph TD;
-parent[parent] --> pid[("pid=fork()")]
-pid --> exec[("exec()")]
-exec --> exit[("exit()")]
-exit --> wait[("wait()")]
-pid --> [("wait()")]
-wait --> end[parent resumes]
-```
+![[Pasted image 20240402101815.png]]
 
 ### Process Termination
 The process executes its last statement and asks the operating system to delete it using exit() system call:
