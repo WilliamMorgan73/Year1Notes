@@ -2,19 +2,7 @@
 .DS_Store
 Thumbs.db
 
-# Ignore Obsidian workspace files
-.obsidian/workspace
-.obsidian/graph.json
-.obsidian/app.json
+# Ignore obsidian folder
 
-# Ignore Obsidian cache files
-.obsidian/cache
-.obsidian/index
-.obsidian/data.json
+.obsidian/
 
-# Ignore plugin settings and logs
-.obsidian/plugins/
-.obsidian/appearance.json
-
-# Ignore backups (if using any Obsidian plugins for backup)
-.obsidian/backup/
