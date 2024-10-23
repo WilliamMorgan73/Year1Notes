@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "996ef8140e5ecf6a",
+        "id": "bfb52d92249d4bf1",
         "type": "tabs",
         "children": [
           {
-            "id": "94b72b942a5b7da6",
+            "id": "53f86abe592c2bec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer systems/Operating System/Topic 2 - CPU Scheduling.md",
+                "file": "Year 2/Networks & Systems/Practicals/Practical 2 - Answers.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Practical 2 - Answers"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer systems/Operating System/Topic 2 - CPU Scheduling.md",
+                "file": "Year 2/Networks & Systems/Practicals/Practical 2 - Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Practical 2 - Answers"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer systems/Operating System/Topic 2 - CPU Scheduling.md",
+                "file": "Year 2/Programming paradigms/Prac/Practical 1 - Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Practical 1 - Answers"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,11 +139,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer systems/Operating System/Topic 2 - CPU Scheduling.md"
-              }
+                "file": "Year 2/Networks & Systems/Practicals/Practical 2 - Answers.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Practical 2 - Answers"
+            }
+          },
+          {
+            "id": "40e9001234e78e4f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "c8a9c847f6fb080d",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -143,56 +180,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94b72b942a5b7da6",
+  "active": "53f86abe592c2bec",
   "lastOpenFiles": [
-    "Computer systems/Operating System/Topic 1 - Introduction to OS.md",
-    "Computer systems/Operating System/Topic 2 - CPU Scheduling.md",
-    "Computer systems/Database/Topic 4 - Relational Calculus and Algebra.md",
-    "Computer systems/Database/Topic 2 - Relational data model.md",
-    "Computer systems/Database/Topic 1 - Database design.md",
-    "Computer systems/Database/Practicals/Week 15 - SQL.md",
-    "Computer systems/Database/Topic 3 - SQL.md",
-    "Computer systems/Database/Topic 5 - Multi-User and Distributed Architecture.md",
-    "Computer systems/Digital Electronics/Topic 1- Number Systems.md",
-    "Computer systems/Operating System/Topic 3 - Multiqueues.md",
-    "Computer systems/Operating System/Topic 5 - Storage management.md",
-    "Computer systems/Operating System/Topic 4 - Memory management.md",
-    "Computer systems/Operating System/Topic 6 - Deadlock.md",
-    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 15 - Paths, Cycles, and Trees.md",
-    "Images/Pasted image 20240402101815.png",
-    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 17 - Rooted trees, Graph isomorphism.md",
-    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 14 - Basics of Graph Theory.md",
-    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms/Topic 16 - Trees.md",
-    "Images/Pasted image 20240326140850.png",
-    "Images/Pasted image 20240326140745.png",
-    "Images/Pasted image 20240326140655.png",
-    "Images/Pasted image 20240326140637.png",
-    "Images/Pasted image 20240326140017.png",
-    "Images/Pasted image 20240326140551.png",
-    "Images/Pasted image 20240326140536.png",
-    "Images/Pasted image 20240326140308.png",
-    "Images/Pasted image 20240326140254.png",
-    "Computer systems/Machine Architecture/Topic 4 - CISC, RISC, and pipelining.md",
-    "Computer systems/Machine Architecture/Topic 3 - AVR addressing modes and instruction set.md",
-    "Computer systems/Machine Architecture/Topic 2 - MIPS.md",
-    "Computer systems/Digital Electronics/Topic 3 - Transistors and Logic Gates.md",
-    "Computer systems/Machine Architecture/Topic 1 - Von Neumann architecture.md",
-    "Computer systems/Digital Electronics/Topic 8 - Sequential circuits.md",
-    "Computer systems/Digital Electronics/Topic 7 - Timing and Advanced Adders.md",
-    "Computer systems/Digital Electronics/Topic 6 - Circuits.md",
-    "Computer systems/Digital Electronics/Topic 5 - Karnaugh Maps.md",
-    "Computer systems/Machine Architecture",
-    "Algorithms and Data Structures/desktop.ini",
-    "Images/desktop.ini",
-    "Computer systems/Digital Electronics",
-    "Algorithms and Data Structures/Part 3",
-    "Algorithms and Data Structures/Part 1",
-    "Images",
-    "Algorithms and Data Structures/Part 4 - Graph Theory and Algorithms",
-    "Algorithms and Data Structures/Part 2",
-    "Computer systems/Operating System"
+    "Untitled Diagram.svg",
+    "Year 2/Networks & Systems/Practicals/Practical 2 - Answers.md",
+    "Untitled Diagram 3.svg",
+    "Untitled Diagram 2.svg",
+    "Untitled Diagram 1.svg",
+    "Year 2/Networks & Systems/Practicals/Practical 2 - Questions.pdf",
+    "Year 2/Theory of computation - Benchtest + Exam/Practicals/Practical 2.pdf",
+    "Year 2/Networks & Systems/Practicals",
+    "Year 2/Theory of computation - Benchtest + Exam/Practicals/Practical 2 - Answers.md",
+    "Year 2/Programming paradigms/1 - Systems Programming - Coursework/Lecture5-Datatypes.pdf",
+    "Year 2/Programming paradigms/1 - Systems Programming - Coursework/Lecture4-Makefiles.pdf",
+    "Year 2/Programming paradigms/Practicals/practical2.pdf",
+    "Year 2/Programming paradigms/Practicals/practical1.pdf",
+    "Year 2/Theory of computation - Benchtest + Exam/2 - Greedy algorithms.md",
+    "Year 2/Theory of computation - Benchtest + Exam/1 - Algorithms and complexity.md",
+    "Year 1/Algorithms and Data Structures/Part 2/Topic 6 - Asymptotic notation.md",
+    "Year 2/Data Science/Data cleaning (Course Work)/2 - Working with files.pdf",
+    "Year 2/Programming paradigms/Practicals/Practical 1 - Answers.md",
+    "Year 2/Programming paradigms/Practicals/Practical 2 - Answers.md",
+    "Year 2/Data Science/Data cleaning (Course Work)/1 - Introduction.md",
+    "Year 2/Data Science/Data cleaning (Course Work)/3 - pandas.pdf",
+    "Year 2/AI  - Coursework/0 - Machine Learning.pdf",
+    "tea.md",
+    "Year 2/Networks & Systems/Part 1 - Coursework/2 - Core Concepts of Computer Networks.md",
+    "Year 2/Networks & Systems/Part 1 - Coursework/1 - Overview, Basic network elements.md",
+    "Year 2/Programming paradigms/1 - Systems Programming - Coursework/1 - Systems Programming.md",
+    "Images/Pasted image 20241021091400.png",
+    "Images/Pasted image 20241021091338.png",
+    "Images/Pasted image 20241021091147.png",
+    "Images/Pasted image 20241021091105.png",
+    "Images/Pasted image 20241021091048.png",
+    "Images/Pasted image 20241021091029.png",
+    "Year 2/AI  - Coursework/Practicals/Practical 1.md",
+    "Year 2/Networks & Systems/Part 2 - Databases - Examination/Semi-structured XML.md",
+    "Year 2/Networks & Systems/Part 2 - Databases - Examination/Entity-Relationship models.md",
+    "Year 1/Computer systems/Operating System/Topic 2 - CPU Scheduling.md",
+    "Year 1/Algorithms and Data Structures/Part 1/Topic 1 - Introduction and Pseudocode.md",
+    "Year.md",
+    "Year 1/Computer systems/Operating System/Topic 1 - Introduction to OS.md",
+    "Year 1/Computer systems/Database/Topic 4 - Relational Calculus and Algebra.md",
+    "Year 1/Computer systems/Database/Topic 2 - Relational data model.md",
+    "Year 1/Computer systems/Database/Topic 1 - Database design.md",
+    "Year 1/Computer systems/Database/Practicals/Week 15 - SQL.md",
+    "Year 1/Computer systems/Database/Topic 3 - SQL.md",
+    "Year 1/Computer systems/Database/Topic 5 - Multi-User and Distributed Architecture.md"
   ]
 }
